@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yi-jie.live</id>
     <title>易杰老师</title>
-    <updated>2019-06-17T07:00:54.821Z</updated>
+    <updated>2019-06-17T07:01:49.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yi-jie.live"/>
     <link rel="self" href="https://yi-jie.live/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yi-jie.live/images/avatar.png</logo>
     <icon>https://yi-jie.live/favicon.ico</icon>
     <rights>All rights reserved 2019, 易杰老师</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://yi-jie.live/post/about</id>
+        <link href="https://yi-jie.live/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>这是关于的页面，可以在这里向世界介绍你！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yi-jie.live/post/hello-gridea</id>
