@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yi-jie.live</id>
     <title>易杰老师</title>
-    <updated>2019-06-17T06:14:57.222Z</updated>
+    <updated>2019-06-17T07:00:54.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yi-jie.live"/>
     <link rel="self" href="https://yi-jie.live/atom.xml"/>
@@ -10,24 +10,6 @@
     <logo>https://yi-jie.live/images/avatar.png</logo>
     <icon>https://yi-jie.live/favicon.ico</icon>
     <rights>All rights reserved 2019, 易杰老师</rights>
-    <entry>
-        <title type="html"><![CDATA[ok]]></title>
-        <id>https://yi-jie.live/post/ok</id>
-        <link href="https://yi-jie.live/post/ok">
-        </link>
-        <updated>2019-06-17T06:07:59.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://yi-jie.live/post-images/1560751726260.jpg" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根本]]></title>
-        <id>https://yi-jie.live/post/gen-ben</id>
-        <link href="https://yi-jie.live/post/gen-ben">
-        </link>
-        <updated>2019-06-10T03:43:12.000Z</updated>
-        <content type="html"><![CDATA[<p>OK🙆</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yi-jie.live/post/hello-gridea</id>
@@ -66,8 +48,12 @@
         <link href="https://yi-jie.live/post/li-dai-jing-ji-bian-ge-de-shi">
         </link>
         <updated>2013-03-11T03:46:20.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="研究中国的方法">研究中国的方法</h2>
+<p>两个研究工具及两个结论</p>
+]]></summary>
         <content type="html"><![CDATA[<h2 id="研究中国的方法">研究中国的方法</h2>
 <p>两个研究工具及两个结论</p>
+<!-- more --> 
 <p><img src="https://ws2.sinaimg.cn/large/006tKfTcgy1fmcxa2fzwqj316415yadd.jpg" alt="屏幕快照 2017-12-11 下午4.44.47"></p>
 <p>四大利益集团博弈法，四大基本制度分析法</p>
 <ul>
