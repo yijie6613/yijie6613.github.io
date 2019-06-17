@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yi-jie.live</id>
     <title>易杰老师</title>
-    <updated>2019-06-17T03:50:02.232Z</updated>
+    <updated>2019-06-17T06:09:11.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yi-jie.live"/>
     <link rel="self" href="https://yi-jie.live/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://yi-jie.live/images/avatar.png</logo>
     <icon>https://yi-jie.live/favicon.ico</icon>
     <rights>All rights reserved 2019, 易杰老师</rights>
+    <entry>
+        <title type="html"><![CDATA[ok]]></title>
+        <id>https://yi-jie.live/post/ok</id>
+        <link href="https://yi-jie.live/post/ok">
+        </link>
+        <updated>2019-06-17T06:07:59.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yi-jie.live/post-images/1560751726260.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根本]]></title>
         <id>https://yi-jie.live/post/gen-ben</id>
