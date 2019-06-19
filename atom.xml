@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yi-jie.live</id>
     <title>TeacherYi&apos;sBlog</title>
-    <updated>2019-06-19T13:40:57.384Z</updated>
+    <updated>2019-06-19T13:58:46.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yi-jie.live"/>
     <link rel="self" href="https://yi-jie.live/atom.xml"/>
@@ -23,5 +23,9 @@
         <link href="https://yi-jie.live/post/li-dai-jing-ji-bian-ge-de-shi">
         </link>
         <updated>2017-12-24T08:00:20.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://github-1259484026.cos.ap-chengdu.myqcloud.com/li-dai-jing-ji-bian-ge-de-shi.png" alt=""></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://github-1259484026.cos.ap-chengdu.myqcloud.com/li-dai-jing-ji-bian-ge-de-shi.png" alt=""></p>
+]]></content>
     </entry>
 </feed>
