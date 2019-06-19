@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yi-jie.live</id>
     <title>TeacherYi&apos;sBlog</title>
-    <updated>2019-06-19T05:30:59.943Z</updated>
+    <updated>2019-06-19T05:38:31.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yi-jie.live"/>
     <link rel="self" href="https://yi-jie.live/atom.xml"/>
@@ -11,12 +11,16 @@
     <icon>https://yi-jie.live/favicon.ico</icon>
     <rights>All rights reserved 2019, TeacherYi&apos;sBlog</rights>
     <entry>
-        <title type="html"><![CDATA[ ]]></title>
-        <id>https://yi-jie.live/post/</id>
-        <link href="https://yi-jie.live/post/">
+        <title type="html"><![CDATA[背影，2019.4]]></title>
+        <id>https://yi-jie.live/post/bei-ying-20194</id>
+        <link href="https://yi-jie.live/post/bei-ying-20194">
         </link>
-        <updated>2019-04-24T23:42:04.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://yi-jie.live/post-images/1560922157642.jpg" alt=""></p>
+        <updated>2019-04-24T23:42:16.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://yi-jie.live/post-images/1560922346691.jpg" alt=""></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://yi-jie.live/post-images/1560922346691.jpg" alt=""></p>
+<!-- more -->
+<p>那一天，像每周四一样，早早的收拾好出门参加备课，走过南开中学外的小道，在一瞬间，只有去者没有来者，天气阴霾，我举起手机拍下这一刻，看起来当时似乎还有雾气未散，记不清了，也许是镜头的模糊。</p>
 ]]></content>
     </entry>
     <entry>
